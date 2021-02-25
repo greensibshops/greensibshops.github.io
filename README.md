@@ -1,3 +1,7 @@
+# Green Sibshops Website
+
+Green Sibliings Support group is an all-volunteer organization made possible by the support of the community in and around Green, Ohio, USA. Their website is designed with the Start Bootstrap Creative Theme for Jekyll.
+
 # Creative Theme for Jekyll
 
 A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
